@@ -1,3 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"))()
-script_key="lHVvoiJWrBvhJCgpYwOutcQaZkCLmsYd";
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/53325754de16c11fbf8bf78101c1c881.lua"))()
+loadstring(game:HttpGet("https://github.com/j901oep/StealAbrainrot/blob/main/UglyScriptXChiliHub"))()
